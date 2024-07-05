@@ -1,7 +1,6 @@
 # project-owncloud
 
 🇫🇷
-Stockage & Partage de fichiers en ligne
 
 I.	Présentation
 •	OwnCloud est une plateforme de gestion de fichiers open-source conçue pour offrir un stockage sécurisé, une synchronisation facile et un partage transparent des données. 
@@ -21,7 +20,6 @@ II.	Prérequis
 •	Network adapter 1 : ens37 ( LAN – Static ) : 172.20.0.33/24
 
 🇺🇸
-Online File Storage & Sharing
 
 I. Presentation
 • OwnCloud is an open-source file management platform designed to provide secure storage, easy sync, and transparent data sharing.
