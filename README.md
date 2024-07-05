@@ -1,5 +1,6 @@
 # project-owncloud
 
+🇫🇷
 Stockage & Partage de fichiers en ligne
 
 I.	Présentation
@@ -18,4 +19,25 @@ II.	Prérequis
 •	Une VM Debian (12/11) - hostname : OwnCloud
 •	Network adapter : ens33 ( NAT – DHCP ) 
 •	Network adapter 1 : ens37 ( LAN – Static ) : 172.20.0.33/24
+
+🇺🇸
+Online File Storage & Sharing
+
+I. Presentation
+• OwnCloud is an open-source file management platform designed to provide secure storage, easy sync, and transparent data sharing.
+• With OwnCloud, you can turn any server into your own personal cloud, giving you complete control over your files and your privacy.
+
+Main Features:
+1. Storage and Synchronization:
+- OwnCloud allows you to store your files on a server of your choice and automatically sync them across all your devices, giving you access to your data wherever you are.
+2. Sharing and Collaboration:
+- Share files and folders with everyone making collaboration and communication easier.
+3. Reinforced Security:
+- OwnCloud offers advanced security features such as encryption of data in transit and at rest, as well as robust authentication mechanisms to protect your sensitive information.
+
+II. Prerequisites
+• A Debian VM (12/11) - hostname: OwnCloud
+• Network adapter: ens33 (NAT – DHCP)
+• Network adapter 1: ens37 (LAN – Static): 172.20.0.33/24
+
 
